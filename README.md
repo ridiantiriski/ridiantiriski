@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Ridianti!
+### Hi there 👋 My name is Ridianti! I'm an life insurance actuary!
 
 <!--
 **ridiantiriski/ridiantiriski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
